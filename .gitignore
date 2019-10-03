@@ -1,0 +1,6 @@
+book_project/.idea/
+car_project/.idea/
+book_project/book_app/__pycache__/
+book_project/book_app/__init__.py
+car_project/book_app/__init__.py
+car_project/book_app/__pycache__/
